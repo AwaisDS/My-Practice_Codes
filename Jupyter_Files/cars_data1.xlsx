@@ -1,0 +1,10 @@
+cars,price,color,quantity,indexes
+toyoto,100000,red,3,car1
+bmw,200000,blue,2,car2
+mercedes,300000,black,6,car3
+supra,400000, blue,4,car4
+honda civic,500000,yellow,8,car5
+suzuki,600000,green,2,car6
+hayabosa,90000,silver,9,car7
+ferrari,7899999,grey,4,car8
+porsche,786665,white,0,car9

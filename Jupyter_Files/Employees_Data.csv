@@ -1,0 +1,11 @@
+Employees,Designation,Salary,Shift-Type,Shift-Time,Age,Gender
+Ahmed,Crew Member,20000.0,P-T,6 hrs,30.0,Male
+Awais,Crew Member,20000.0,F-T,9 hrs,20.0,Male
+Ali,Assistent Gel,30000.0,,9 hrs,21.0,Male
+Abdullah,Crew Member,20000.0,P-T,6 hrs,20.0,Male
+zain,Crew Trainer,30000.0,F-T,9 hrs,24.0,Male
+Mustafa,Crew Trainer,30000.0,F-T,9 hrs,34.0,
+Sonu,Crew Member,,P-T,6 hrs,22.0,male
+Esbah,Crew Trainer,30000.0,F-T,9 hrs,22.0,Female
+Ateeqa,Trainee Manager,40000.0,P-T,6 hrs,,Female
+Madeeha,Manager,80000.0,F-T,9 hrs,38.0,Female
